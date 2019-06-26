@@ -6,6 +6,7 @@ This works on IE 5.5+, FF 2+, Chrome, Safari 3+ and Opera 9.6+
 Usage:
 
 ```
+<script src="watch.js" type="text/javascript"></script>
 <script type='text/javascript'>
 
     onDomChange(function(){ 
